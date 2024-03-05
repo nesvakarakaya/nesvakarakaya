@@ -1,4 +1,4 @@
-# _Hi there_ 👋
+# _Hi there_ 🌞
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" href="#">
 
 In the final quarter of 2022, I started my programming journey.</br> 
