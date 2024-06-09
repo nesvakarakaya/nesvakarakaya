@@ -5,7 +5,7 @@ In the final quarter of 2022, I started my programming journey.</br>
 ## &#x279d; About me
 After completing my education life, I started Bahçeşehir University Wissen Akademie Full Stack Developer 600 hours Software Development Certificate Program in November 2022 to improve my career.
 ## 🔧 Technologies & Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#]([https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://www.google.com/search?sca_esv=9f96f96f072b035a&sca_upv=1&q=c%23&uds=ADvngMjJbStxv3M3MJJ4otugXnvjoODd3R__7vD021Qo4hKUA7wIRH4UQ-jOo11lORF6zFmd1xuoVAf6FEsS51bCcPK5h0gXkid6iscqPn4SCFgqgR06agGnKkKPBpO5mHL6aylPG9lh4TOlOiFBEt6rVtaWUtIYSh01j_AXqKNTnNRuCIvWGiZjUhEkaXD7-kJbS8L54qMCBh-A0XUbVmXWNHIkH0LnfTh3GV8-hVeHkkoq2y5byPpgKmCu46e2tRfZJOVL5pGUWu47NqdIHzTUbN_kEquv6g&udm=2&prmd=ivnbtz&sa=X&ved=2ahUKEwjZg_SZmc6GAxUeSfEDHey_AvoQtKgLegQIChAB&biw=2400&bih=1148&dpr=0.8#vhid=m5N75CVUcHO0UM&vssid=mosaic))
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,9 +21,7 @@ After completing my education life, I started Bahçeşehir University Wissen Aka
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-<!--
+
 **nesvakarakaya/nesvakarakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
